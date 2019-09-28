@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+
+    <!--将该bean加入到ioc容器中-->
+    <!--<bean id="person" class="org.lixianyuan.bean.Person">-->
+        <!--&lt;!&ndash;为该bean中的属性注入值&ndash;&gt;-->
+        <!--<property name="age" value="25"/>-->
+        <!--<property name="name" value="lixianyuan"/>-->
+    <!--</bean>-->
+</beans>
